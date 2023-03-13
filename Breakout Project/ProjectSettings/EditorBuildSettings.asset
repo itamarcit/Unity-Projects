@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Opening Screen.unity
+    guid: cd0b89e57f3710444959ca14040105ca
+  - enabled: 1
+    path: Assets/Game/Scenes/Ice Stage.unity
+    guid: 9bc0ccd3db76e734884b54aa1d9b722a
+  - enabled: 1
+    path: Assets/Game/Scenes/Lava Stage.unity
+    guid: 102ce447fb5d79b42affb4c28ff50d29
+  - enabled: 1
+    path: Assets/Game/Scenes/Main Stage.unity
+    guid: b61a660d72c554e7ba80633cd1c80c51
+  m_configObjects: {}
