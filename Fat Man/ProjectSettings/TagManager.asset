@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  - Falling Blocks
+  - Bounds
+  - BottomBound
+  - Player One Bottom Collider
+  - Player One Top Collider
+  - Dormant Block
+  - Moving Apple
+  - Eating Station
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player Colliders
+  - Water
+  - UI
+  - Player Triggers
+  - Vegetables
+  - Ceiling
+  - Closed Door
+  - Opened Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3877015075
+    locked: 0
+  - name: Players
+    uniqueID: 1043698547
+    locked: 0
+  - name: Pickups
+    uniqueID: 1447675615
+    locked: 0
+  - name: Vegetables
+    uniqueID: 775832167
+    locked: 0
+  - name: UI Text
+    uniqueID: 78862569
+    locked: 0

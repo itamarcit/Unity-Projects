@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - MirrorFrame
+  - Light
+  - Mirror
+  - Enemy
+  - GhostMirror
+  - RayCatcher
+  - Movable
+  - Mirror Trigger Bottom
+  - Mirror Trigger Left
+  - Mirror Trigger Right
+  - Mirror Trigger Top
+  - Mirror Left Down
+  - Mirror Left Up
+  - Mirror Right Down
+  - Mirror Right Up
+  - Good Ghost 1
+  - EnemyTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Light
+  - Water
+  - UI
+  - Player
+  - NotHitByLight
+  - BlockOnlyLight
+  - Objects
+  - Enemies
+  - Walls
+  - MiniMapLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4103491519
+    locked: 0
