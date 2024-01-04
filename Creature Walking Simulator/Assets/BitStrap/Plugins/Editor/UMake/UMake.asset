@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2a83d148faa244e98b9c1b5845223e, type: 3}
+  m_Name: UMake
+  m_EditorClassIdentifier: 
+  version: 0.4.00
+  targets:
+  - {fileID: 11400000, guid: 433406062d68cd84f9ef6510ad667da3, type: 2}
+  - {fileID: 11400000, guid: ecd263c2313400647b37e6808c04ce45, type: 2}
+  - {fileID: 11400000, guid: c5319c9ac1bc24975a9203d2d7d679a8, type: 2}
+  - {fileID: 11400000, guid: aa7cf2d4db8af4a6e88e5d4a704afbb2, type: 2}

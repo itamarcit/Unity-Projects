@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1b998e74dbb4d21a3a5272fa4143f9, type: 3}
+  m_Name: Custom Folder Icons
+  m_EditorClassIdentifier: 
+  folders:
+  - key: Configs
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: a3572ca6b3cb743d1bc217801eb87487, type: 3}
+    largeIcon: {fileID: 2800000, guid: a3572ca6b3cb743d1bc217801eb87487, type: 3}
+    affectSubFolders: 1
+  - key: Configs
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: a3572ca6b3cb743d1bc217801eb87487, type: 3}
+    largeIcon: {fileID: 2800000, guid: a3572ca6b3cb743d1bc217801eb87487, type: 3}
+    affectSubFolders: 0
+  - key: Design
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: a1ea660aacc3c49a993535be58881b41, type: 3}
+    largeIcon: {fileID: 2800000, guid: a1ea660aacc3c49a993535be58881b41, type: 3}
+    affectSubFolders: 1
+  - key: Design
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: a1ea660aacc3c49a993535be58881b41, type: 3}
+    largeIcon: {fileID: 2800000, guid: a1ea660aacc3c49a993535be58881b41, type: 3}
+    affectSubFolders: 0
+  - key: Scripts
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: e4f37feacea0e44b2aa6227be016b77a, type: 3}
+    largeIcon: {fileID: 2800000, guid: e4f37feacea0e44b2aa6227be016b77a, type: 3}
+    affectSubFolders: 1
+  - key: Scripts
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: e4f37feacea0e44b2aa6227be016b77a, type: 3}
+    largeIcon: {fileID: 2800000, guid: e4f37feacea0e44b2aa6227be016b77a, type: 3}
+    affectSubFolders: 0
+  - key: Audio
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: ffd38a77b6f4f4027b8739f1e581b30a, type: 3}
+    largeIcon: {fileID: 2800000, guid: ffd38a77b6f4f4027b8739f1e581b30a, type: 3}
+    affectSubFolders: 0
+  - key: Animation
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: 3fce85c7e838d4e5aa5c98396816f0f8, type: 3}
+    largeIcon: {fileID: 2800000, guid: 3fce85c7e838d4e5aa5c98396816f0f8, type: 3}
+    affectSubFolders: 0
+  - key: Editor
+    keyType: 0
+    smallIcon: {fileID: 2800000, guid: 15d804cfd519c460988db99eef1e4bbf, type: 3}
+    largeIcon: {fileID: 2800000, guid: 15d804cfd519c460988db99eef1e4bbf, type: 3}
+    affectSubFolders: 0

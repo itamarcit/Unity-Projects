@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ac0cd4115ae4624386f3f581f109360, type: 3}
+  m_Name: ShortcutsReferences
+  m_EditorClassIdentifier: 
+  assets:
+  - {fileID: 11400000, guid: 7e8bdfdad98174d8cb1890f41e90242f, type: 2}
+  - {fileID: 11400000, guid: 725be2a7f3b614b33975c166b2663932, type: 2}
+  - {fileID: 102900000, guid: 0c7662fa5e946dd4ea9e9afea1071814, type: 3}
+  - {fileID: 102900000, guid: 61957d891458b684394be2257c1f45a8, type: 3}
+  - {fileID: 102900000, guid: e509561c9976b2e4585c54c11f5c8dac, type: 3}
+  - {fileID: 11400000, guid: 8d67058d6ab3f634a918717e6d8ef57d, type: 2}

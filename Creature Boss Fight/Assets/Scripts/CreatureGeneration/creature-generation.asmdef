@@ -1,0 +1,18 @@
+{
+    "name": "creature-generation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:76a1170f856024664b33ce5e7f490396",
+        "GUID:7f7d1af65c2641843945d409d28f2e20",
+        "GUID:a1f3c5e4cf7b88b4d97b658fe59e61e2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
